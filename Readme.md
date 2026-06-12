@@ -3,8 +3,8 @@
 A production-ready ML-powered REST API that predicts customer churn
 for telecom businesses — built with FastAPI and Scikit-learn.
 
-## 🚀 Live Demo
-🔗 https://your-render-url.onrender.com/docs
+<!-- ## 🚀 Live Demo
+🔗 https://your-render-url.onrender.com/docs -->
 
 ## 📊 What it does
 - Predicts whether a customer will churn: **Yes / No**
