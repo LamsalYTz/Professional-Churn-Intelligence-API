@@ -18,7 +18,7 @@ Python · FastAPI · Scikit-learn · Pandas · Pydantic · Render
 
 ## ⚡ Quick Start
 ```bash
-git clone https://github.com/YOUR_USERNAME/churn-api
+git clone https://github.com/LamsalYTz/Professional-Churn-Intelligence-API
 cd churn-api
 pip install -r requirements.txt
 python train_on_start.py
